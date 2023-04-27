@@ -16,4 +16,3 @@ Autonomous LLM for deducing conclusions using objective facts.
  # Windows
  ./run.bat
  ```
- Credit (Base Repo) : https://github.com/Significant-Gravitas/Auto-GPT
