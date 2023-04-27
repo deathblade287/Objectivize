@@ -1,0 +1,17 @@
+Note: No blog posts or articles should be included as they increae bias. We need facts (or closet approximations), not opinions. News will be filtered as even though they are traditionally "reliable", they have historically proved to be convincted towards one side of political agendas. National archives promoting their nation / hiding information that demerits them will also be taken into account. So will the bias of most international organizations towards western (Especially american) culture and agenda.
+
+International :
+	=> Wikipedia
+	=> Google Scholar (largely academic)
+
+India : 
+
+	=> National Archives Of India (NAI)
+
+
+Functionality Ideas : 
+	=> Conversation memory
+	=> Add information to context when the response is "i dont know"
+	=> Expand to include content and title from references and backlinks (individually extracted, not inside documents)
+	=> Combined document/image interpretation with this to include the image content as well
+	=> UI Design
