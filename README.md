@@ -16,3 +16,6 @@ Autonomous LLM for deducing conclusions using objective facts.
  # Windows
  ./run.bat
  ```
+
+## Screenshots
+![Demo](./screenshots/2023-04-23_17-04.png)
